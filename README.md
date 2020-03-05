@@ -1,0 +1,1 @@
+### GraphQL sandbox. Overview of this technology.
